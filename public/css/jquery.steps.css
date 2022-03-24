@@ -1,0 +1,12 @@
+body {
+    padding-top:40px;
+    padding-bottom:40px;
+    background-color:green !important;
+    font-size:17px;
+}
+.panel {
+    border:1px solid #fff;
+    border-radius:10px;
+    background-color:#fff;
+    box-shadow:0px 1px 3px #ccc;
+}
